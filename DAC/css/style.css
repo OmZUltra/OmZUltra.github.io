@@ -1,0 +1,40 @@
+.backdrop {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    
+    background-image: url('../images/pattern.jpeg');
+}
+
+.tools_header {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    margin: 50px 0 25px 0;
+}
+
+img {
+    display: block;
+    margin-bottom: 25px;
+}
+
+.pricing {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+.brushes .tools_header{
+    background-color: mediumspringgreen;
+}
+
+.frames .tools_header{
+    background-color: lightcoral;
+}
+
+.paint .tools_header{
+    background-color: skyblue;
+}
