@@ -9,10 +9,19 @@
     src: url('/fonts/Roboto/Roboto-Regular.ttf') format('truetype');
 }
 
+@font-face {
+    font-family: 'rubik_font';
+    src: url('/fonts/Rubik/RubikGemstones-Regular.ttf') format('truetype');
+}
+
 .displayjp {
     font-family: 'japanese', Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .displayrb {
     font-family: 'robot_font', Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.displayrubik {
+    font-family: 'rubik_font';
 }
