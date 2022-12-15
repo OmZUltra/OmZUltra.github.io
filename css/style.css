@@ -4,6 +4,15 @@
          url('/fonts/NSJP/NotoSansJP-Regular.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'robot_font';
+    src: url('/fonts/Roboto/Roboto-Regular.ttf') format('truetype');
+}
+
 .displayjp {
     font-family: 'japanese', Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.displayrb {
+    font-family: 'robot_font';
 }
