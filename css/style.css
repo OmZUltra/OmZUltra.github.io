@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'japanese';
+    src: url('/fonts/NSJP/NotoSansJP-Regular.otf') format('opentype');
+}
+
+.displayjp {
+    font-family: 'japanese';
+}
