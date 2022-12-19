@@ -1,0 +1,44 @@
+body {
+    background-color: black;
+    color: azure;
+}
+
+#head {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#imgdoc {
+    margin: 0 auto;
+    width: 70%;
+    font-family: Tahoma;
+}
+
+caption {
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.tag {
+    color: greenyellow;
+    font-family: monospace;
+}
+
+.attribute {
+    color: gold;
+    font-family: monospace;
+}
+
+table {
+    width: 45%;
+    display: inline-table;
+}
+
+table, th, td {
+    border: 1px dotted yellow;
+}
+
+td {
+    padding: 10px;
+}
