@@ -1,5 +1,7 @@
 body {
     background-image: url('resource/darkstar.jpg');
+    background-size: contain;
+    background-position: center;
     color: azure;
 }
 
